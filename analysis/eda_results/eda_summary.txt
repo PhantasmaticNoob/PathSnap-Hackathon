@@ -1,0 +1,28 @@
+PATHSNAP DATASET EXPLORATION SUMMARY
+==================================================
+Dataset location: C:\Users\Valla\Desktop\Pathsnap\dataset
+Total trips analysed: 90
+
+TRAIN SUMMARY
+----------------------------------------
+Trips analysed: 80
+Total gps_observations: 208,417
+Total road_nodes: 1,933,485
+Total road_arcs: 3,876,904
+Total route_length: 31,336
+Trips with GPS gaps over 60 seconds: 22
+Trips with isolated nodes: 0
+Trips with duplicate arcs: 53
+Trips with route continuity breaks: 10
+
+STUDENT_TEST SUMMARY
+----------------------------------------
+Trips analysed: 10
+Total gps_observations: 19,160
+Total road_nodes: 90,689
+Total road_arcs: 185,041
+Total route_length: 3,477
+Trips with GPS gaps over 60 seconds: 1
+Trips with isolated nodes: 0
+Trips with duplicate arcs: 7
+Trips with route continuity breaks: 1
